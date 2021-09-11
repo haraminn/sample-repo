@@ -1,2 +1,2 @@
 # sample-repo
-GIT練習
+kusin
